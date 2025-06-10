@@ -1,6 +1,7 @@
 {
   "name": "client",
   "private": true,
+  "homepage":"https://Viswanadhapallivennela19.github.io/kelton/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
